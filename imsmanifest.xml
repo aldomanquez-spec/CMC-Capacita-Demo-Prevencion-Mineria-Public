@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest identifier="CMC_Quebrada_Norte_DEMO_SCORM12"
+  version="1.0"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <organizations default="ORG1">
+    <organization identifier="ORG1">
+      <title>CMC · Quebrada Norte · Demo Prevención de Riesgos</title>
+      <item identifier="ITEM1" identifierref="RES1">
+        <title>Gestión de un riesgo crítico: interacción entre equipos móviles y personas en minería</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="RES1" type="webcontent" adlcp:scormtype="sco" href="index.html">
+      <file href="index.html"/>
+      <file href="src/app.js"/>
+      <file href="src/audio.json"/>
+      <file href="src/quiz.json"/>
+      <file href="src/scorm.js"/>
+      <file href="src/style.css"/>
+      <file href="assets/brand/logo-cmc-capacita.jpg"/>
+      <file href="assets/audio/A01.wav"/>
+      <file href="assets/audio/A01.vtt"/>
+      <file href="assets/audio/A02.wav"/>
+      <file href="assets/audio/A02.vtt"/>
+      <file href="assets/audio/A03.wav"/>
+      <file href="assets/audio/A03.vtt"/>
+      <file href="assets/audio/A04.wav"/>
+      <file href="assets/audio/A04.vtt"/>
+      <file href="assets/audio/A05.wav"/>
+      <file href="assets/audio/A05.vtt"/>
+      <file href="assets/images/V01_hero_interseccion.png"/>
+      <file href="assets/images/V02_segregacion_rutas.png"/>
+      <file href="assets/images/V03_equipo_matriz_riesgos.png"/>
+      <file href="assets/images/V04_casi_incidente_cruce.png"/>
+      <file href="assets/images/V05_verificacion_reinicio.png"/>
+      <file href="assets/images/V06_charla_inicio_turno.png"/>
+    </resource>
+  </resources>
+</manifest>
