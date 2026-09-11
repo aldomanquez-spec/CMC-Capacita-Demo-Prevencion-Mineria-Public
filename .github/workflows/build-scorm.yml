@@ -1,0 +1,40 @@
+name: Build SCORM proposal package
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build-scorm:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build SCORM ZIP
+        run: |
+          rm -f CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12.zip
+          zip -r CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12.zip \
+            imsmanifest.xml index.html src assets \
+            -x '.git/*' '.github/*'
+
+      - name: Verify package
+        run: |
+          unzip -l CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12.zip
+          unzip -p CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12.zip imsmanifest.xml | grep -q 'adlcp:scormtype="sco"'
+          if unzip -l CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12.zip | grep -E '\.mjs$'; then
+            echo 'ERROR: .mjs found in package' >&2
+            exit 1
+          fi
+          sha256sum CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12.zip > scorm-sha256.txt
+
+      - name: Upload SCORM artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12
+          path: |
+            CMC-Quebrada-Norte-DEMO-Propuesta-SCORM12.zip
+            scorm-sha256.txt
+          if-no-files-found: error
+          retention-days: 30
