@@ -1,0 +1,331 @@
+{
+  "voice": "Catalina",
+  "language": "es-CL",
+  "segments": [
+    {
+      "id": "A01",
+      "title": "Apertura / cápsula animada (~70 s)",
+      "text": "En minería, una decisión preventiva rara vez comienza con una respuesta completa. Comienza con una pregunta: ¿qué necesito verificar antes de decidir? En la faena ficticia Quebrada Norte, un vehículo liviano y un equipo de alto tonelaje coincidieron en una intersección durante el cambio de turno. No hubo colisión, pero la separación fue menor a la prevista. A partir de este caso trabajarás como Experto o Experta en Prevención de Riesgos. Analizarás el entorno, distinguirás hechos de supuestos, revisarás controles y decidirás qué evidencia necesitas antes de autorizar la continuidad de una tarea. El objetivo no es memorizar una lista. Es practicar un criterio que puedas transferir a situaciones reales de trabajo: identificar el peligro, verificar los controles y tomar una decisión que puedas explicar y respaldar. Comencemos por observar el escenario antes de emitir conclusiones.",
+      "textSha256": "71cfc9ec018a86850d68e04fda191776bc8fb960dbc62dd38d16099070e09627",
+      "asset": "assets/audio/A01.wav",
+      "captions": "assets/audio/A01.vtt",
+      "cues": [
+        {
+          "start": 0,
+          "end": 4.717,
+          "text": "En minería, una decisión preventiva rara vez comienza con una respuesta completa."
+        },
+        {
+          "start": 4.717,
+          "end": 8.474,
+          "text": "Comienza con una pregunta: ¿qué necesito verificar antes de decidir?"
+        },
+        {
+          "start": 8.474,
+          "end": 16.359,
+          "text": "En la faena ficticia Quebrada Norte, un vehículo liviano y un equipo de alto tonelaje coincidieron en una intersección durante el cambio de turno."
+        },
+        {
+          "start": 16.359,
+          "end": 19.876,
+          "text": "No hubo colisión, pero la separación fue menor a la prevista."
+        },
+        {
+          "start": 19.876,
+          "end": 24.401000000000003,
+          "text": "A partir de este caso trabajarás como Experto o Experta en Prevención de Riesgos."
+        },
+        {
+          "start": 24.401000000000003,
+          "end": 33.63,
+          "text": "Analizarás el entorno, distinguirás hechos de supuestos, revisarás controles y decidirás qué evidencia necesitas antes de autorizar la continuidad de una tarea."
+        },
+        {
+          "start": 33.63,
+          "end": 35.899,
+          "text": "El objetivo no es memorizar una lista."
+        },
+        {
+          "start": 35.899,
+          "end": 45.68,
+          "text": "Es practicar un criterio que puedas transferir a situaciones reales de trabajo: identificar el peligro, verificar los controles y tomar una decisión que puedas explicar y respaldar."
+        },
+        {
+          "start": 45.68,
+          "end": 49.221,
+          "text": "Comencemos por observar el escenario antes de emitir conclusiones."
+        }
+      ],
+      "duration": 49.221,
+      "sha256": "d2f1a9943a393d25cdecfb6a8c0061e534c9ff2b48ca29f9e916487e94706e7e"
+    },
+    {
+      "id": "A02",
+      "title": "Clase magistral, segmento 1 (~2 min)",
+      "text": "Un error frecuente en gestión preventiva es usar peligro, riesgo y consecuencia como si fueran sinónimos. Para analizar bien una situación, conviene separarlos. El peligro es la fuente o condición con potencial de daño. El riesgo aparece cuando consideramos la exposición, la probabilidad y las consecuencias posibles. Y la consecuencia es el daño que podría materializarse si las barreras fallan. En nuestro caso, la interacción entre un equipo de alto tonelaje y un vehículo liviano constituye una condición que exige análisis. Pero para decidir qué hacer necesitamos más que una descripción general. Debemos observar cuándo ocurre la interacción, qué rutas están habilitadas, qué condiciones de visibilidad existen y qué controles fueron definidos. Esta separación ayuda a evitar decisiones apresuradas. También permite que una recomendación sea trazable: sabemos qué peligro estamos tratando, qué control esperamos encontrar y qué evidencia necesitamos observar para confiar en su eficacia.",
+      "textSha256": "79e85b9113fe1ed7862da57479cda38c100f1e6a3f1963ef5b5f39773acf2716",
+      "asset": "assets/audio/A02.wav",
+      "captions": "assets/audio/A02.vtt",
+      "cues": [
+        {
+          "start": 0,
+          "end": 5.725,
+          "text": "Un error frecuente en gestión preventiva es usar peligro, riesgo y consecuencia como si fueran sinónimos."
+        },
+        {
+          "start": 5.725,
+          "end": 9.026,
+          "text": "Para analizar bien una situación, conviene separarlos."
+        },
+        {
+          "start": 9.026,
+          "end": 12.039,
+          "text": "El peligro es la fuente o condición con potencial de daño."
+        },
+        {
+          "start": 12.039,
+          "end": 17.476,
+          "text": "El riesgo aparece cuando consideramos la exposición, la probabilidad y las consecuencias posibles."
+        },
+        {
+          "start": 17.476,
+          "end": 21.641,
+          "text": "Y la consecuencia es el daño que podría materializarse si las barreras fallan."
+        },
+        {
+          "start": 21.641,
+          "end": 29.189999999999998,
+          "text": "En nuestro caso, la interacción entre un equipo de alto tonelaje y un vehículo liviano constituye una condición que exige análisis."
+        },
+        {
+          "start": 29.189999999999998,
+          "end": 32.971,
+          "text": "Pero para decidir qué hacer necesitamos más que una descripción general."
+        },
+        {
+          "start": 32.971,
+          "end": 41.215999999999994,
+          "text": "Debemos observar cuándo ocurre la interacción, qué rutas están habilitadas, qué condiciones de visibilidad existen y qué controles fueron definidos."
+        },
+        {
+          "start": 41.215999999999994,
+          "end": 44.44499999999999,
+          "text": "Esta separación ayuda a evitar decisiones apresuradas."
+        },
+        {
+          "start": 44.44499999999999,
+          "end": 54.465999999999994,
+          "text": "También permite que una recomendación sea trazable: sabemos qué peligro estamos tratando, qué control esperamos encontrar y qué evidencia necesitamos observar para confiar en su eficacia."
+        }
+      ],
+      "duration": 54.465999999999994,
+      "sha256": "f2c4f6ab04d4042c8684b20f025744544d52deb3a341b19ed9ff5aa6d79f21ab"
+    },
+    {
+      "id": "A03",
+      "title": "Clase magistral, segmento 2 (~2 min)",
+      "text": "Que un control exista en un procedimiento no significa automáticamente que esté funcionando. Podemos distinguir tres niveles. Primero, el control declarado: aparece en una norma, procedimiento o instrucción. Segundo, el control implementado: existe físicamente o está incorporado a la operación. Tercero, el control verificado: contamos con evidencia de que realmente opera como se espera en el contexto que estamos analizando. En un cruce de equipos móviles, por ejemplo, una regla de segregación puede estar escrita, pero debemos comprobar la señalización, las barreras, el uso efectivo de las rutas y la comunicación asociada. La función preventiva no termina al encontrar el documento correcto. Su valor está en conectar la regla con evidencia observable. Por eso, antes de reiniciar una tarea, conviene formular cuatro preguntas: ¿qué control necesito?, ¿qué evidencia demostraría que funciona?, ¿quién debe verificarlo? y ¿qué condición me permitiría continuar con una decisión defendible?",
+      "textSha256": "ed0fddd2787ac00b19f1e42d64f4b82883bd04c9e95e80603c6ff1861050fd71",
+      "asset": "assets/audio/A03.wav",
+      "captions": "assets/audio/A03.vtt",
+      "cues": [
+        {
+          "start": 0,
+          "end": 4.909,
+          "text": "Que un control exista en un procedimiento no significa automáticamente que esté funcionando."
+        },
+        {
+          "start": 4.909,
+          "end": 6.842,
+          "text": "Podemos distinguir tres niveles."
+        },
+        {
+          "start": 6.842,
+          "end": 12.039,
+          "text": "Primero, el control declarado: aparece en una norma, procedimiento o instrucción."
+        },
+        {
+          "start": 12.039,
+          "end": 17.5,
+          "text": "Segundo, el control implementado: existe físicamente o está incorporado a la operación."
+        },
+        {
+          "start": 17.5,
+          "end": 24.833,
+          "text": "Tercero, el control verificado: contamos con evidencia de que realmente opera como se espera en el contexto que estamos analizando."
+        },
+        {
+          "start": 24.833,
+          "end": 36.534,
+          "text": "En un cruce de equipos móviles, por ejemplo, una regla de segregación puede estar escrita, pero debemos comprobar la señalización, las barreras, el uso efectivo de las rutas y la comunicación asociada."
+        },
+        {
+          "start": 36.534,
+          "end": 40.147,
+          "text": "La función preventiva no termina al encontrar el documento correcto."
+        },
+        {
+          "start": 40.147,
+          "end": 43.304,
+          "text": "Su valor está en conectar la regla con evidencia observable."
+        },
+        {
+          "start": 43.304,
+          "end": 49.149,
+          "text": "Por eso, antes de reiniciar una tarea, conviene formular cuatro preguntas: ¿qué control necesito?"
+        },
+        {
+          "start": 49.149,
+          "end": 51.322,
+          "text": ", ¿qué evidencia demostraría que funciona?"
+        },
+        {
+          "start": 51.322,
+          "end": 52.607,
+          "text": ", ¿quién debe verificarlo?"
+        },
+        {
+          "start": 52.607,
+          "end": 56.316,
+          "text": "y ¿qué condición me permitiría continuar con una decisión defendible?"
+        }
+      ],
+      "duration": 56.316,
+      "sha256": "65a519c1c5a5dc56a27c9f25b1b9aadad8b84aea39690e0e4a6d138de04b4722"
+    },
+    {
+      "id": "A04",
+      "title": "Podcast “Voces del turno” (~3 min)",
+      "text": "Narrador/a: Escucharás tres perspectivas sobre el mismo evento. Tu tarea es identificar qué afirmaciones son observaciones y cuáles requieren corroboración.\n\nOperador/a de equipo: Yo venía por la ruta habitual. La visibilidad estaba razonable desde mi cabina, aunque había más polvo que al inicio del turno. Vi el vehículo liviano cuando ya estaba cerca del cruce. Reduje la velocidad y continué atento a la radio.\n\nSupervisión: El procedimiento del sector define rutas separadas y una prioridad clara para equipos de alto tonelaje. A primera hora revisamos la señalización, pero no estuve presente cuando ocurrió el evento. Después me informaron que la radio tuvo interferencias por algunos minutos.\n\nPrevención: Al llegar al lugar confirmé que la señalización principal seguía instalada. Antes de concluir necesitamos contrastar el trazado real usado por ambos vehículos, la condición de visibilidad, el funcionamiento de la comunicación y cualquier registro disponible del turno.\n\nNarrador/a: Las tres voces aportan información útil, pero ninguna por sí sola resuelve el caso. Una buena decisión preventiva distingue observación, interpretación y evidencia pendiente. Continúa y marca qué aspectos deben verificarse antes de establecer una conclusión.",
+      "textSha256": "64416f6f6218f6e44334a9224c26277313d80a28f985b51416d124e7e66a19ea",
+      "asset": "assets/audio/A04.wav",
+      "captions": "assets/audio/A04.vtt",
+      "cues": [
+        {
+          "start": 0,
+          "end": 4.381,
+          "text": "Narrador/a: Escucharás tres perspectivas sobre el mismo evento."
+        },
+        {
+          "start": 4.381,
+          "end": 9.242,
+          "text": "Tu tarea es identificar qué afirmaciones son observaciones y cuáles requieren corroboración."
+        },
+        {
+          "start": 9.242,
+          "end": 13.071000000000002,
+          "text": "Operador/a de equipo: Yo venía por la ruta habitual."
+        },
+        {
+          "start": 13.071000000000002,
+          "end": 18.340000000000003,
+          "text": "La visibilidad estaba razonable desde mi cabina, aunque había más polvo que al inicio del turno."
+        },
+        {
+          "start": 18.340000000000003,
+          "end": 21.521000000000004,
+          "text": "Vi el vehículo liviano cuando ya estaba cerca del cruce."
+        },
+        {
+          "start": 21.521000000000004,
+          "end": 24.246000000000006,
+          "text": "Reduje la velocidad y continué atento a la radio."
+        },
+        {
+          "start": 24.246000000000006,
+          "end": 30.835000000000008,
+          "text": "Supervisión: El procedimiento del sector define rutas separadas y una prioridad clara para equipos de alto tonelaje."
+        },
+        {
+          "start": 30.835000000000008,
+          "end": 35.98400000000001,
+          "text": "A primera hora revisamos la señalización, pero no estuve presente cuando ocurrió el evento."
+        },
+        {
+          "start": 35.98400000000001,
+          "end": 39.81300000000001,
+          "text": "Después me informaron que la radio tuvo interferencias por algunos minutos."
+        },
+        {
+          "start": 39.81300000000001,
+          "end": 44.55400000000001,
+          "text": "Prevención: Al llegar al lugar confirmé que la señalización principal seguía instalada."
+        },
+        {
+          "start": 44.55400000000001,
+          "end": 54.98300000000001,
+          "text": "Antes de concluir necesitamos contrastar el trazado real usado por ambos vehículos, la condición de visibilidad, el funcionamiento de la comunicación y cualquier registro disponible del turno."
+        },
+        {
+          "start": 54.98300000000001,
+          "end": 61.40400000000001,
+          "text": "Narrador/a: Las tres voces aportan información útil, pero ninguna por sí sola resuelve el caso."
+        },
+        {
+          "start": 61.40400000000001,
+          "end": 66.33700000000002,
+          "text": "Una buena decisión preventiva distingue observación, interpretación y evidencia pendiente."
+        },
+        {
+          "start": 66.33700000000002,
+          "end": 70.83800000000002,
+          "text": "Continúa y marca qué aspectos deben verificarse antes de establecer una conclusión."
+        }
+      ],
+      "duration": 70.83800000000002,
+      "sha256": "4c092670e5cfcc449af5f930a42065e536775826d5b3824bc2b32ded41f5c347"
+    },
+    {
+      "id": "A05",
+      "title": "Cierre / cápsula resumen (~75 s)",
+      "text": "Antes de cerrar, recuperemos cinco ideas. Primera: una situación sin daño puede seguir revelando una pérdida de control que merece análisis. Segunda: un control escrito no equivale a un control verificado. Tercera: cuando cambia una condición relevante, como visibilidad o comunicación, también debe revisarse la decisión. Cuarta: toda acción preventiva mejora cuando define responsable, evidencia esperada y criterio de verificación. Quinta: una decisión profesional debe poder explicarse con claridad y trazarse hasta los datos que la sustentan. En tu trabajo, el próximo desafío será aplicar este mismo criterio a una tarea real de tu entorno: identifica un peligro relevante, selecciona un control crítico y pregúntate qué evidencia necesitarías para afirmar que ese control funciona hoy, en estas condiciones. La prevención se fortalece cuando pasamos de asumir a verificar.",
+      "textSha256": "6edab1eced5e6fca28701a01cc782b5061272b8809c9bbb19fa7bbd7def0523e",
+      "asset": "assets/audio/A05.wav",
+      "captions": "assets/audio/A05.vtt",
+      "cues": [
+        {
+          "start": 0,
+          "end": 2.725,
+          "text": "Antes de cerrar, recuperemos cinco ideas."
+        },
+        {
+          "start": 2.725,
+          "end": 8.498,
+          "text": "Primera: una situación sin daño puede seguir revelando una pérdida de control que merece análisis."
+        },
+        {
+          "start": 8.498,
+          "end": 12.447,
+          "text": "Segunda: un control escrito no equivale a un control verificado."
+        },
+        {
+          "start": 12.447,
+          "end": 19.444,
+          "text": "Tercera: cuando cambia una condición relevante, como visibilidad o comunicación, también debe revisarse la decisión."
+        },
+        {
+          "start": 19.444,
+          "end": 26.033,
+          "text": "Cuarta: toda acción preventiva mejora cuando define responsable, evidencia esperada y criterio de verificación."
+        },
+        {
+          "start": 26.033,
+          "end": 32.214,
+          "text": "Quinta: una decisión profesional debe poder explicarse con claridad y trazarse hasta los datos que la sustentan."
+        },
+        {
+          "start": 32.214,
+          "end": 47.875,
+          "text": "En tu trabajo, el próximo desafío será aplicar este mismo criterio a una tarea real de tu entorno: identifica un peligro relevante, selecciona un control crítico y pregúntate qué evidencia necesitarías para afirmar que ese control funciona hoy, en estas condiciones."
+        },
+        {
+          "start": 47.875,
+          "end": 51.176,
+          "text": "La prevención se fortalece cuando pasamos de asumir a verificar."
+        }
+      ],
+      "duration": 51.176,
+      "sha256": "7636ce8dac19f321c822b4a60ea545a4a7cb5f9fe79a2c450d011e0030d58b0b"
+    }
+  ]
+}

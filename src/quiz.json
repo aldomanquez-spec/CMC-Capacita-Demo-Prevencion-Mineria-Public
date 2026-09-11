@@ -1,0 +1,167 @@
+[
+  {
+    "id": "Q01",
+    "type": "mcq",
+    "question": "En el caso del Cruce 3, ¿qué acción demuestra mejor una decisión preventiva basada en evidencia?",
+    "option_a": "Continuar porque no hubo colisión",
+    "option_b": "Detener temporalmente y verificar controles críticos antes de decidir",
+    "option_c": "Aplicar una sanción antes de investigar",
+    "option_d": "Cambiar la señalética sin revisar causas",
+    "correct": "B",
+    "feedback": "La ausencia de daño no demuestra que el riesgo esté controlado; primero debe verificarse la eficacia de los controles relevantes."
+  },
+  {
+    "id": "Q02",
+    "type": "mcq",
+    "question": "¿Cuál de las siguientes opciones describe mejor un peligro?",
+    "option_a": "La probabilidad de un choque",
+    "option_b": "La interacción potencial entre un equipo móvil y una persona o vehículo liviano",
+    "option_c": "La lesión resultante de un atropello",
+    "option_d": "La calificación final de una matriz",
+    "correct": "B",
+    "feedback": "El peligro es la fuente o situación con potencial de daño; riesgo incorpora probabilidad y consecuencias."
+  },
+  {
+    "id": "Q03",
+    "type": "mcq",
+    "question": "Un procedimiento indica que existe segregación de rutas. ¿Qué falta para afirmar que el control es eficaz?",
+    "option_a": "Que el documento esté firmado",
+    "option_b": "Evidencia observable de que la segregación está implementada y funciona en la situación analizada",
+    "option_c": "Que la supervisión lo recuerde",
+    "option_d": "Que el trabajador conozca el nombre del procedimiento",
+    "correct": "B",
+    "feedback": "Un control documentado debe comprobarse en terreno o mediante evidencia pertinente."
+  },
+  {
+    "id": "Q04",
+    "type": "mcq",
+    "question": "Si disminuye la visibilidad por polvo, la decisión preventiva debe:",
+    "option_a": "Mantenerse siempre porque ya fue tomada",
+    "option_b": "Revisarse porque cambió una condición relevante del escenario",
+    "option_c": "Esperar al cierre del turno",
+    "option_d": "Depender solo de la experiencia del operador",
+    "correct": "B",
+    "feedback": "Una modificación significativa del contexto exige reevaluar la decisión."
+  },
+  {
+    "id": "Q05",
+    "type": "mcq",
+    "question": "¿Qué evidencia es más útil para verificar una segregación efectiva de rutas?",
+    "option_a": "Una declaración general de compromiso",
+    "option_b": "Observación del trazado, barreras, señalización y uso efectivo de rutas segregadas",
+    "option_c": "Una fotografía corporativa",
+    "option_d": "La antigüedad del procedimiento",
+    "correct": "B",
+    "feedback": "La evidencia debe demostrar implementación y funcionamiento del control."
+  },
+  {
+    "id": "Q06",
+    "type": "mcq",
+    "question": "En una investigación preventiva, una afirmación de un testigo debe tratarse inicialmente como:",
+    "option_a": "Verdad definitiva",
+    "option_b": "Información que puede requerir corroboración",
+    "option_c": "Información irrelevante",
+    "option_d": "Incumplimiento probado",
+    "correct": "B",
+    "feedback": "Los testimonios aportan información, pero deben contrastarse con otras fuentes cuando corresponda."
+  },
+  {
+    "id": "Q07",
+    "type": "mcq",
+    "question": "¿Cuál es la mejor secuencia de gestión del caso?",
+    "option_a": "Sancionar → informar → verificar",
+    "option_b": "Identificar peligro → revisar controles → verificar evidencia → decidir → hacer seguimiento",
+    "option_c": "Decidir → recopilar evidencia → identificar peligro",
+    "option_d": "Continuar → observar → documentar",
+    "correct": "B",
+    "feedback": "La secuencia mantiene trazabilidad entre peligro, control, evidencia y decisión."
+  },
+  {
+    "id": "Q08",
+    "type": "mcq",
+    "question": "¿Qué diferencia a un control implementado de uno verificado?",
+    "option_a": "Ninguna",
+    "option_b": "El verificado cuenta con evidencia de que opera como se espera en el contexto analizado",
+    "option_c": "El implementado siempre es más eficaz",
+    "option_d": "El verificado no necesita responsable",
+    "correct": "B",
+    "feedback": "La verificación exige evidencia sobre el funcionamiento del control."
+  },
+  {
+    "id": "Q09",
+    "type": "mcq",
+    "question": "Si existe interferencia de radio en un cruce crítico, ¿qué criterio es más razonable?",
+    "option_a": "Ignorarla si el tránsito es bajo",
+    "option_b": "Considerarla una condición que puede afectar un control y verificar una alternativa antes de continuar",
+    "option_c": "Usar señales manuales sin coordinación",
+    "option_d": "Aumentar la velocidad de cruce",
+    "correct": "B",
+    "feedback": "La comunicación puede ser parte del sistema de control; si falla debe evaluarse la suficiencia de alternativas."
+  },
+  {
+    "id": "Q10",
+    "type": "mcq",
+    "question": "¿Qué elemento mejora la trazabilidad de una acción correctiva?",
+    "option_a": "Asignar responsable, plazo/evidencia y criterio de verificación",
+    "option_b": "Escribir una recomendación general",
+    "option_c": "Dejar la decisión verbal",
+    "option_d": "Esperar a que ocurra otro evento",
+    "correct": "A",
+    "feedback": "Una acción trazable define quién, qué evidencia y cómo se verificará."
+  },
+  {
+    "id": "Q11",
+    "type": "mcq",
+    "question": "¿Cuál es un ejemplo de evaluación auténtica en este módulo?",
+    "option_a": "Memorizar el título del reglamento",
+    "option_b": "Decidir si reiniciar una operación y justificar la decisión con evidencia",
+    "option_c": "Copiar una definición",
+    "option_d": "Leer una infografía",
+    "correct": "B",
+    "feedback": "La evaluación auténtica reproduce una tarea similar a la práctica profesional."
+  },
+  {
+    "id": "Q12",
+    "type": "mcq",
+    "question": "Cuando dos fuentes entregan versiones distintas, el/la Experto/a debería:",
+    "option_a": "Elegir la versión de mayor jerarquía",
+    "option_b": "Identificar discrepancias y buscar evidencia adicional pertinente",
+    "option_c": "Promediar ambas versiones",
+    "option_d": "Descartar ambas",
+    "correct": "B",
+    "feedback": "La discrepancia es una señal para ampliar o contrastar evidencia."
+  },
+  {
+    "id": "Q13",
+    "type": "mcq",
+    "question": "¿Qué afirmación es correcta sobre el marco normativo en una decisión preventiva?",
+    "option_a": "Reemplaza el análisis del escenario",
+    "option_b": "Entrega criterios y obligaciones que deben integrarse con el análisis técnico y operacional",
+    "option_c": "Solo se usa después de un accidente",
+    "option_d": "No requiere actualización",
+    "correct": "B",
+    "feedback": "La normativa debe integrarse con evidencia técnica y mantenerse vigente."
+  },
+  {
+    "id": "Q14",
+    "type": "mcq",
+    "question": "¿Cuál es el mejor indicador de que un control crítico puede sostenerse en el tiempo?",
+    "option_a": "Que funcionó una vez",
+    "option_b": "Que existe responsable, evidencia de verificación y seguimiento definido",
+    "option_c": "Que fue mencionado en una reunión",
+    "option_d": "Que está impreso en un cartel",
+    "correct": "B",
+    "feedback": "La sostenibilidad del control requiere gestión, verificación y seguimiento."
+  },
+  {
+    "id": "Q15",
+    "type": "mcq",
+    "question": "Al cerrar el caso, ¿qué producto demuestra mejor transferencia al trabajo?",
+    "option_a": "Una lista de conceptos memorizados",
+    "option_b": "Un plan breve con peligro, control, evidencia, responsable y criterio de continuar/detener",
+    "option_c": "Una opinión general",
+    "option_d": "Una copia del caso",
+    "correct": "B",
+    "feedback": "El plan aplica el aprendizaje a una estructura de decisión utilizable en el trabajo."
+  }
+]
